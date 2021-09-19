@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrMeirchak
+- 👋 Hi, I’m Or Meirchak
 - 🌱I'm currently studying Computer Science at The Academic College of Tel-Aviv Yaffo
 
 
